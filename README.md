@@ -2,7 +2,7 @@
 # Description: Simple To Do List allows user to add/delete items
 # Author: linkedin.com/in/eddiecwood
 
-![Alt text](screenDemo170127B.mp4?raw=true "Video Walkthrough")
+[![ScreenShot](screenShot_todoApp.jpg)](screenDemo170127B.mp4?raw=true "Video Walkthrough")
 
 # Attribution
 
