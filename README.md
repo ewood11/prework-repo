@@ -2,7 +2,7 @@
 # Description: Simple To Do List allows user to add/delete items
 # Author: linkedin.com/in/eddiecwood
 
-![video test](https://github.com/ewood11/prework-repo/blob/master/screenDemo170127B.mp4)
+{video:https//github.com/ewood11/prework-repo/blob/master/screenShot_todoApp.jpg:https://github.com/ewood11/prework-repo/blob/master/screenDemo170127B.mp4}
 
 # Attribution
 
