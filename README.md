@@ -2,15 +2,11 @@
 # Description: Simple To Do List allows user to add/delete items
 # Author: linkedin.com/in/eddiecwood
 
-```
-<script src="http://vjs.zencdn.net/4.0/video.js"></script>
+# Video Walkthrough
 
-<video id="pelican-installation" class="video-js vjs-default-skin" controls
-preload="auto" width="683" height="384" poster="https://github.com/ewood11/prework-repo/blob/master/screenShot_todoApp.jpg"
-data-setup="{}">
-<source src="https://github.com/ewood11/prework-repo/blob/master/screenDemo170127B.mp4" type='video/mp4'>
-</video>
-```
+<img src='./todoApp_170209C_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 # Attribution
 
